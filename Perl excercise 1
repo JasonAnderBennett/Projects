@@ -1,0 +1,26 @@
+#
+# Hello World Program in Perl
+# setting the file to an array
+# did not currently set a die  function because I didn't use and open command
+my @my_array = <STDIN>;
+#print ("@my_array\n");
+chomp($line);#Chomp and Chop may be the same thing
+$string = "the\n";
+print "$my_array[0]";
+$sub_string1 = substr($my_array[0],);
+print "$sub_string1";
+if( $string =~ m/the/ ) {
+  # A successful match returns 1 so this statement is executed
+  print "This string contains the substring 'the'\n";
+}
+
+STDIN
+
+'discovered (this is the truth) that when he',
+'t kinds of metal to the leg of a frog, an e',
+'rrent developed and the frog’s leg kicked',
+'longer attached to the frog, which was dea',
+'normous advances in the field of amphibian',
+'ch it hop back into the pond –- almost. Bu',
+'ond –- almost. But the greatest Electrical',
+'ectrical Pioneer of them all was Thomas Edi',
